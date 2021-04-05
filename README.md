@@ -14,11 +14,11 @@ After filtering for helpfulRate > 0.5, the following results were observed:
 
 - vine_filtered = 43
 
-**vine_filtered screenshot**
+![vine](https://github.com/benclark62/Amazon_Vine_Analysis/blob/main/vine_helpful.png)
 
 - nonVine_filtered = 7720 
 
-**nonVine_filtere screenshot**
+![nonVine](https://github.com/benclark62/Amazon_Vine_Analysis/blob/main/nonVine_helpful.png)
 
 How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 
